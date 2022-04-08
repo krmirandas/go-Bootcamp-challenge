@@ -1,0 +1,3 @@
+config/local.js --no-ignore
+node_modules/
+views/**/*.ejs
